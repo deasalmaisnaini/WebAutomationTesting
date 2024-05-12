@@ -29,9 +29,8 @@ Application dengan Cucumber dan Selenium
 ### Test Case
 Sebelum melakukan pengujian otomatis kami telah membuat test case menggunakan Pendekatan BDD dengan detail pada tabel berikut 
 
-| Test Case ID | Module (Feature) | Case (-/+/edge) | Test Case Name (Scenario) | Precondition (GIVEN) | Steps to execute (WHEN) | Test Data | Expected Result (THEN) |
+| TC ID | Module (Feature) | Case (-/+/edge) | Test Case Name (Scenario) | Precondition (GIVEN) | Steps to execute (WHEN) | Test Data | Expected Result (THEN) |
 |--------------|------------------|-----------------|----------------------------|----------------------|-------------------------|-----------|------------------------|
-| 0.0          | Login            |                 | Verify login page          | 1. User has opened swag labs browser<br>2. There are fields for inputting username and password that have not been filled in<br>3. There is a green Login Button<br>4. There is a Swag Labs logo name | 1. User has opened swag labs browser<br>2. User clicks on login button | | |
 | 0.0.1        |                  | Positif         | Verify login page          | 1. User has opened swag labs browser | 1. User has opened swag labs browser | | |
 | 0.1          | Login            | Functionality   |                            |                        |                           |           |                        |
 | 0.1.1        |                  | Positif         | Check the login is successful with the credentials registered on the system | 1. User has opened swag labs browser<br>2. User has navigated to the login page | 1. User enters username & password<br>2. User clicks on login button | - Username: standard_user<br>- Password: secret_sauce | User should be able to see Dashboard page |
