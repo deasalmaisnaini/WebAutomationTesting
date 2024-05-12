@@ -9,15 +9,19 @@
 Repositori ini merupakan proyek untuk melakukan pengujian fungsionalitas Login dan Logout pada website [SauceDemo](https://www.saucedemo.com/) yang dilakukan secara otomatis menggunakan Selenium, Cucumber, dan build tools Maven dengan bahasa pemrograman Java.
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## :ledger: Table Of Content
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+##  :beginner: About
 Proyek ini merupakan pengujian fungsionalitas Login dan Logout pada website [SauceDemo](https://www.saucedemo.com/). Pengujian dilakukan secara otomatis menggunakan Selenium untuk mengotomatisasi interaksi dengan browser, Cucumber untuk penulisan skenario pengujian dalam bahasa Gherkin, JUnit untuk menjalankan dan mengelola unit test, dan Maven sebagai build tools proyek dan pengelolaan dependency. Proyek ini dibuat menggunakan bahasa pemrograman Java.
 
-### Author
+### 👩‍💻 Author
+- Dea Salma Isnaini
+- Falia Davina Gustaman
+- Syifa Khairina
+
 - Dea Salma Isnaini
   
 - Falia Davina Gustaman 
@@ -43,6 +47,12 @@ Sebelum melakukan pengujian otomatis kami telah membuat test case menggunakan Pe
 | 0.1.7 | Login Functionality | Negative      | Check for is un-successful with invalid credentials. It is unregistered username and password | 1. User has opened swag labs browser<br>2. User has navigated to the login page | 1. User enters username & password<br>2. User clicks on login button | - Username: standard<br>- Password: secret | 1. Showing symbol red x in the username field and password field<br>2. Showing Error message "Username and password do not match any user in this service"<br>3. Stay on the login page<br>4. The label and border in the username field and password field are red |
 | 0.2.1 | Logout Functionality | Positive    | Verify if logout is successful | 1. User has opened swag labs browser<br>2. User has logged in to swag labs | 1. User clicks on hamburger icon at top left corner<br>2. User clicks on logout button | | 1. User should be able to log out successfully |
 
+## :zap: Tools
+Write about how to use this project.
+
+###  :electric_plug: Installation
+- Steps on how to install this project, to use it.
+- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
 
 
 
