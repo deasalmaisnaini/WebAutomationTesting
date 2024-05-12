@@ -41,8 +41,33 @@ Sebelum melakukan pengujian otomatis kami telah membuat test case menggunakan Pe
 | 0.1.7 | Login Functionality | Negative      | Check for is un-successful with invalid credentials. It is unregistered username and password | 1. User has opened swag labs browser<br>2. User has navigated to the login page | 1. User enters username & password<br>2. User clicks on login button | - Username: standard<br>- Password: secret | 1. Showing symbol red x in the username field and password field<br>2. Showing Error message "Username and password do not match any user in this service"<br>3. Stay on the login page<br>4. The label and border in the username field and password field are red |
 | 0.2.1 | Logout Functionality | Positive    | Verify if logout is successful | 1. User has opened swag labs browser<br>2. User has logged in to swag labs | 1. User clicks on hamburger icon at top left corner<br>2. User clicks on logout button | | 1. User should be able to log out successfully |
 
-## :zap: Tools
-Write about how to use this project.
+## :gear: Tools
+Proyek ini menggunakan beberapa teknologi utama:
+
+### Java 11
+[![Java](https://img.shields.io/badge/Java-11-blue?logo=java)](https://www.oracle.com/java/)
+
+Bahasa pemrograman Java versi 11 digunakan dalam proyek ini untuk mengembangkan skrip otomatisasi.
+
+### JUnit 4
+[![JUnit](https://img.shields.io/badge/JUnit-4-green?logo=junit)](https://junit.org/junit4/)
+
+JUnit 4 digunakan untuk menjalankan dan mengelola unit test dalam proyek ini.
+
+### Cucumber
+[![Cucumber](https://img.shields.io/badge/Cucumber-BDD-orange?logo=cucumber)](https://cucumber.io/)
+
+Cucumber digunakan untuk menulis skenario pengujian dalam bahasa Gherkin agar lebih mudah dipahami dan terstruktur.
+
+### Selenium
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-blueviolet?logo=selenium)](https://www.selenium.dev/)
+
+Selenium digunakan untuk mengotomatisasi interaksi dengan browser web dalam pengujian otomatis.
+
+### WebDriver Chrome 
+[![Chrome Driver](https://img.shields.io/badge/Chrome%20Driver-Latest-yellow?logo=googlechrome)](https://chromedriver.chromium.org/)
+
+WebDriver Chrome versi 1.24 digunakan sebagai driver untuk mengontrol browser Google Chrome dalam pengujian.
 
 ###  :electric_plug: Installation
 - Steps on how to install this project, to use it.
