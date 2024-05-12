@@ -1,7 +1,11 @@
 # Web Automation Testing 
-![Alt Text](https://drive.google.com/file/d/1O5vMZ6EybOVWGQKiRE-PSjZf1U0k4y_3)
-Repositori ini merupakan proyek untuk melakukan pengujian fungsionalitas pada website (https://www.saucedemo.com/) yang dilakukan secara otomatis menggunakan selenium, cucumber dan build tools maven serta bahasa pemrograman Java
-- If you are using badges, add them here.
+![Web Automation Testing](https://drive.google.com/uc?id=1O5vMZ6EybOVWGQKiRE-PSjZf1U0k4y_3)
+
+[![Collaborators](https://img.shields.io/badge/Collaborators-YourNameHere-blue)](https://github.com/deasalmaisnaini)
+[![Technologies](https://img.shields.io/badge/Technologies-Selenium%20%7C%20Cucumber%20%7C%20Maven%20%7C%20Java-green)](https://github.com/deasalmaisnaini/WebAutomationTesting)
+
+Repositori ini merupakan proyek untuk melakukan pengujian fungsionalitas pada website [SauceDemo](https://www.saucedemo.com/) yang dilakukan secara otomatis menggunakan Selenium, Cucumber, dan build tools Maven dengan bahasa pemrograman Java.
+
 
 ## :ledger: Index
 
