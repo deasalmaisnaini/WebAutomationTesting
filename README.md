@@ -22,17 +22,11 @@ Proyek ini merupakan pengujian fungsionalitas Login dan Logout pada website [Sau
 - Falia Davina Gustaman
 - Syifa Khairina
 
-- Dea Salma Isnaini
-  
-- Falia Davina Gustaman 
-  
-- Syifa Khairina 
-
-### Tujuan
+### :dart: Tujuan
 Tujuan utama dari proyek ini adalah untuk memenuhi tugas mata kuliah Pengujian Perangkat Lunak Praktikum mengenai Pemahaman Automation Testing Web
 Application dengan Cucumber dan Selenium
 
-### Test Case
+### :mag_right: Test Case
 Sebelum melakukan pengujian otomatis kami telah membuat test case menggunakan Pendekatan BDD dengan detail pada tabel berikut 
 
 | TC ID | Module (Feature) | Case (-/+/edge) | Test Case Name (Scenario) | Precondition (GIVEN) | Steps to execute (WHEN) | Test Data | Expected Result (THEN) |
