@@ -226,4 +226,4 @@ Add a file structure here with the basic details about files, below is an exampl
      }
      ```
    
-Dengan mengikuti langkah-langkah di atas, script pengujian dapa ditambahkan
+Dengan mengikuti langkah-langkah di atas, script pengujian dapat ditambahkan
