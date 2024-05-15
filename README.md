@@ -1,7 +1,7 @@
 # Web Automation Testing 
 <img src="https://drive.google.com/uc?id=1O5vMZ6EybOVWGQKiRE-PSjZf1U0k4y_3" alt="Web Automation Testing" width="700">
 
-[![Collaborators](https://img.shields.io/badge/Collaborators-Falia%20Davina%20%7C%20Dea%20Salma%20%7C%20Syifa%20Khairina-blue)](https://github.com/deasalmaisnaini)
+[![Collaborators](https://img.shields.io/badge/Collaborators-Falia%20Davina%20%7C%20Dea%20Salma%20%7C%20Syifa%20Khairina-blue)]
 [![Technologies](https://img.shields.io/badge/Technologies-Selenium%20%7C%20Cucumber%20%7C%20Maven%20%7C%20Java%20%7C%20JUnit-red)](https://github.com/deasalmaisnaini/WebAutomationTesting)
 
 (https://github.com/deasalmaisnaini/WebAutomationTesting)
@@ -10,8 +10,25 @@ Repositori ini merupakan proyek untuk melakukan pengujian fungsionalitas Login d
 
 <!-- TABLE OF CONTENTS -->
 ## :ledger: Table Of Content
-
-
+- [Web Automation Testing](#web-automation-testing)
+  - [:ledger: Table Of Content](#ledger-table-of-content)
+  - [:beginner: About](#beginner-about)
+    - [👩‍💻 Author](#-author)
+    - [:dart: Tujuan](#dart-tujuan)
+    - [:mag_right: Test Case](#mag_right-test-case)
+  - [:gear: Tools](#gear-tools)
+    - [Java 11](#java-11)
+    - [JUnit 4](#junit-4)
+    - [Cucumber](#cucumber)
+    - [Selenium](#selenium)
+    - [WebDriver Chrome](#webdriver-chrome)
+  - [:electric_plug: Installation](#electric_plug-installation)
+    - [Prasyarat](#prasyarat)
+    - [Panduan Instalasi Langkah-demi-Langkah](#panduan-instalasi-langkah-demi-langkah)
+      - [Untuk Windows:](#untuk-windows)
+  - [:wrench: Development](#wrench-development)
+    - [:file_folder: File Structure](#file_folder-file-structure)
+    - [:file_folder: Menambahkan Test Script](#file_folder-menambahkan-test-script)
 
 <!-- ABOUT THE PROJECT -->
 ##  :beginner: About
